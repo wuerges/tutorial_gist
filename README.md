@@ -1,1 +1,3 @@
-# tutorial_gist
+# Tutorial p/ grupo do facebook Python Brasil
+
+![Tutorial](images/juntas.png)
